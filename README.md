@@ -1,163 +1,163 @@
 <div align="center">
 
-# Olá, eu sou Kleber Ferreira 👋
+# 👋 Olá, eu sou Kleber Ferreira
 
-### 🚀 Desenvolvedor Back-End • PHP • MySQL • APIs • rAthena • Sistemas Web
+### Software Engineer • Back-End Developer • Python • PHP • Automation • AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FE4900&center=true&vCenter=true&width=850&lines=Desenvolvedor+Back-End;PHP+%7C+MySQL+%7C+JavaScript;Especialista+em+rAthena;Criador+do+AsgardCP;Desenvolvendo+sistemas+para+Ragnarok+Online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=FE4900&center=true&vCenter=true&width=900&lines=Software+Engineer;Python+Developer;Back-End+Developer;PHP+%7C+Python+%7C+MySQL;Automation+%26+AI;Building+Scalable+Solutions"/>
 
 <br>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://wa.me/5561985562657">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kwde_v">
+<img src="https://img.shields.io/badge/@kwde__v-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+# 💻 Sobre mim
 
-Sou desenvolvedor **Back-End** especializado em **PHP**, **MySQL** e desenvolvimento de sistemas para **Ragnarok Online (rAthena)**.
+Sou um desenvolvedor apaixonado por criar soluções robustas, escaláveis e automatizadas.
 
-Nos últimos anos venho desenvolvendo soluções comerciais utilizadas por diversos servidores privados, criando sistemas completos, integrações de pagamento, APIs, painéis administrativos e ferramentas de automação.
+Meu foco é o desenvolvimento de aplicações Back-End, automações, ferramentas, APIs e sistemas completos utilizando principalmente **Python** e **PHP**.
 
-Tenho experiência no desenvolvimento de projetos do zero, sempre buscando código limpo, desempenho e facilidade de manutenção.
+Gosto de transformar problemas complexos em soluções simples, eficientes e bem estruturadas.
 
----
-
-# 🚀 Projeto Principal
-
-## ⚔️ AsgardCP
-
-Painel de Controle moderno desenvolvido para servidores de Ragnarok Online.
-
-### Recursos
-
-- 👤 Sistema de Login
-- 📝 Cadastro de Contas
-- 💰 Loja de Cash
-- 💎 Sistema VIP
-- 🎫 Battle Pass
-- 🎰 Roleta Premiada
-- 🤖 AntiBot com CAPTCHA
-- 📊 Rankings
-- 📦 Banco de Dados de Itens
-- 👹 Banco de Dados de Monstros
-- 📨 Sistema de Tickets
-- 🗳️ Vote For Points
-- 💳 Integração Mercado Pago
-- ⚡ Pix
-- 🎁 Sistema de Cupons
-- 🛒 Loja Administrável
-- 🔐 Painel Administrativo
+Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura, organização de código e performance.
 
 ---
 
-# 💼 Sistemas Desenvolvidos
+# 🚀 O que eu desenvolvo
 
-| Sistema | Status |
-|----------|--------|
-| 🎰 Roleta Premiada | ✔ |
-| 🎫 Battle Pass | ✔ |
-| 🛡️ AntiBot CAPTCHA | ✔ |
-| 💎 Sistema VIP | ✔ |
-| 🛒 Loja de Cash | ✔ |
-| 💰 Sistema de Doações | ✔ |
-| 📊 Rankings Personalizados | ✔ |
-| 📨 Sistema de Tickets | ✔ |
-| 🗳️ Vote For Points | ✔ |
-| 📦 Banco de Dados de Itens | ✔ |
-| 👹 Banco de Dados de Monstros | ✔ |
-| 🎁 Sistema de Cupons | ✔ |
-| 🔌 APIs REST | ✔ |
+- 🐍 Aplicações em Python
+- ⚙️ Sistemas Back-End
+- 🌐 APIs REST
+- 🤖 Ferramentas de Automação
+- 🧠 Projetos com Inteligência Artificial
+- 📊 Dashboards
+- 💳 Integrações de Pagamentos
+- 🔒 Sistemas de Autenticação
+- 📂 Processamento de Arquivos
+- 📈 Processamento de Dados
+- 🔄 Scripts de Automação
+- 🌍 Sistemas Web
 
 ---
 
-# 💻 Tecnologias
+# 🛠️ Stack
 
-### Back-End
+### Linguagens
 
-- PHP
-- MySQL
-- MariaDB
-- REST API
+<p>
 
-### Front-End
+<img src="https://skillicons.dev/icons?i=python"/>
 
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- Tailwind CSS
+<img src="https://skillicons.dev/icons?i=php"/>
 
-### Outros
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-- Git
-- Linux
-- Apache
-- XAMPP
-- Python
-- C/C++
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+### Banco de Dados
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+### Frameworks & Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+</p>
+
+---
+
+# 🎯 Áreas de Interesse
+
+- Software Engineering
+- Artificial Intelligence
+- Automation
+- APIs
+- Clean Architecture
+- Back-End Development
+- Data Processing
+- Web Applications
+- Performance
+- Database Design
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KWDe-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWDe-v&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=KWDe-v&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
+# 📊 Activity Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KWDe-v&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Atualmente estudando
+
+- Inteligência Artificial
+- Large Language Models (LLMs)
+- Agentes de IA
 - Arquitetura de Software
-- APIs REST
-- Next.js
-- Automação
-- Performance em PHP
-- Banco de Dados
-- Desenvolvimento de Sistemas Escaláveis
-
----
-
-# 💼 Serviços
-
-✔ Desenvolvimento de Sistemas Personalizados
-
-✔ Sistemas para Ragnarok Online
-
-✔ Desenvolvimento para rAthena
-
-✔ APIs REST
-
-✔ Integração Mercado Pago
-
-✔ Integração Pix
-
-✔ Banco de Dados MySQL
-
-✔ Painéis Administrativos
-
-✔ Consultoria para Servidores Privados
+- Sistemas Distribuídos
+- APIs Escaláveis
+- Performance em Python
+- Cloud Computing
 
 ---
 
@@ -166,11 +166,11 @@ Painel de Controle moderno desenvolvido para servidores de Ragnarok Online.
 <div align="center">
 
 <a href="https://wa.me/5561985562657">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
 <a href="https://www.instagram.com/kwde_v">
-<img src="https://img.shields.io/badge/Instagram-@kwde__v-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -179,8 +179,8 @@ Painel de Controle moderno desenvolvido para servidores de Ragnarok Online.
 
 <div align="center">
 
-### 🚀 Sempre desenvolvendo novas soluções e transformando ideias em sistemas completos.
+### 💡 "Code is more than syntax — it's solving problems."
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil.
 
 </div>
