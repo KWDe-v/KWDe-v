@@ -74,9 +74,7 @@ Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura,
 ### Banco de Dados
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite"/>
 </p>
 
 ---
