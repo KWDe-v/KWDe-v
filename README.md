@@ -100,17 +100,13 @@ Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura,
 - Web Applications
 - Performance
 - Database Design
----
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KWDe-v&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
 # 📈 GitHub Analytics
 
 <div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KWDe-v&theme=tokyonight" alt="GitHub Streak" />
 
 <img height="180em"
 src="https://github-readme-stats-ruby-pi-swr0pnuurc.vercel.app/api?username=KWDe-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&nocache=1"/>
