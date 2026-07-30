@@ -131,7 +131,7 @@ src="https://github-readme-stats-ruby-pi-swr0pnuurc.vercel.app/api/top-langs/?us
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KWDe-v&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KWDe-v&theme=tokyo-night&hide_border=false"/>
 
 </div>
 
