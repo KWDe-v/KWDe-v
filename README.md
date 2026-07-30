@@ -82,19 +82,7 @@ Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura,
 ### Frameworks & Ferramentas
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
-
-<img src="https://skillicons.dev/icons?i=pycharm"/>
-
+  <img src="https://skillicons.dev/icons?i=react,vue,django,docker,git,github,linux,vscode,visualstudio,pycharm"/>
 </p>
 
 ---
