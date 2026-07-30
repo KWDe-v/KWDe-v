@@ -111,27 +111,15 @@ Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura,
 src="https://github-readme-stats-ruby-pi-swr0pnuurc.vercel.app/api?username=KWDe-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats-ruby-pi-swr0pnuurc.vercel.app/api/top-langs/?username=KWDe-v&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-ruby-pi-swr0pnuurc.vercel.app/api/top-langs/?username=KWDe-v&layout=compact&theme=tokyonight&hide_border=false"/>
 
 </div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KWDe-v&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📊 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KWDe-v&theme=tokyo-night&hide_border=false"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KWDe-v&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
