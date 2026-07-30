@@ -120,9 +120,11 @@ Sempre busco aprender novas tecnologias e aplicar boas práticas de arquitetura,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KWDe-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em"
+src="https://github-readme-stats-ruby-pi-swr0pnuur.vercel.app/api?username=KWDe-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWDe-v&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats-ruby-pi-swr0pnuur.vercel.app/api/top-langs/?username=KWDe-v&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
